@@ -18,7 +18,7 @@ In this paper, we introduce a new curvature notion "RC-positivity" for abstract 
 
 
 
-2. K.-F. Liu, S. Rao, Xiaokui Yang,  Quasi-isometry and deformations of Calabi-Yau manifolds.  **Invent. Math.** 199 (2015), no. 2, 423-453. 
+2. K.-F. Liu, S. Rao, Xiaokui Yang,  *Quasi-isometry and deformations of Calabi-Yau manifolds.*  **Invent. Math.** 199 (2015), no. 2, 423-453. 
 
 We prove that the formal expansion of Beltrami differentials for the deformation of Calabi-Yau manifolds has at least radius 1 which was previously well-known to be sufficiently small (Kodaira-Spencer-Kuranishi theory). The proof is based on two Hodge-theoretical theorems on general compact Kahler manifolds and also the hypoelliptic theory of holomorphic currents of pure-type. For two Hodge-theoretical results, one (so called “quasi-isometry”) is an analogue of Hormander’s classical L2-estimates, and the other one is analogous to Cartan’s formula, which is also a generalization of the well-known Tian-Todorov Lemma on Calabi-Yau manifolds.
 
