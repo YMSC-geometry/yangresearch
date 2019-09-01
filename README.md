@@ -24,13 +24,13 @@ We prove that the formal expansion of Beltrami differentials for the deformation
 
 
 
-3. Xiaokui Yang,  A partial converse to the Andreotti-Grauert theorem.    **Compositio Math.**  155  (2019)  no. 1, 89-99. 
+3. Xiaokui Yang,  *A partial converse to the Andreotti-Grauert theorem.*    **Compositio Math.**  155  (2019)  no. 1, 89-99. 
 
 In this paper, we prove that on a compact complex manifold, the dual line bundle L* is not pseudo-effective if and only if L is RC-positive, i.e. it admits a smooth Hermitian metric such that its Ricci curvature has at least one positive eigenvalue everywhere. By using this result we obtain a weak dual of the classical Cartan-Serre-Grothendieck-Kodaira theorem. Moreover, we establish that a projective manifold is uniruled if and only if its first Chern class is RC-positive, i.e. there exists a smooth Kahler metric such that its Ricci curvature is RC-positive, which was also conjectured by S.-T. Yau.
 
 
 
-4. V. Tosatti, Xiaokui Yang,  An extension of a theorem of Wu-Yau.  **J. Differential Geom.** 107 (2017), no.3, 573-579.
+4. V. Tosatti, Xiaokui Yang,  *An extension of a theorem of Wu-Yau.*  **J. Differential Geom.** 107 (2017), no.3, 573-579.
 
 In this paper, we prove that if a compact Kahler manifold has non-positive holomoprhic sectional curvature then its canonical line bundle is nef, and if it has a Kahler metric with negative holomorphic sectional curvature, then its canonical line bundle is ample. It solves a conjecture of S.-T. Yau in 1970s. The proof is based on Wu-Yau's method.
 
